@@ -1,4 +1,4 @@
-Color Generator App
+# Color Generator App
 The design idea is taken from one of courses in udemy
 
 Learnings:
